@@ -8,7 +8,8 @@ First assume that two variables as l1 and l2.
 ### Step 2: 
 Then give the values for that variables as mentioned in the question.
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![image](https://user-images.githubusercontent.com/118622554/208253297-afafe443-4ca9-4327-919f-eaee238ddacc.png)
+
 ### Step 4: 
 Then print that values,it shows many values after decimal to avoid that we should give {:.2f}
 ### Step 5: 
