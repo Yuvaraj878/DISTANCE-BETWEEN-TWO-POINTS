@@ -27,8 +27,6 @@ import math
 
 
 ### OUTPUT:
-file:///home/sec/Pictures/Screenshots/Ex%203.png![image](https://user-images.githubusercontent.com/118622554/208253742-781649c4-edbd-4c5d-adee-9419d3de30af.png)
-
 
 ### RESULT:
 The output for Distance between the two points is Successfull.
