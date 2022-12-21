@@ -15,8 +15,14 @@ Then print that values,it shows many values after decimal to avoid that we shoul
 ### Step 5: 
 After finishing that we should push this into the git repository by giving the command git push -u origin main.
 ### PROGRAM:
-
+```
+import math
+l1=[4,2]
+l2=[10,6]
+a = math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
+print("{:.2f}".format(a))
+```
 ### OUTPUT:
-
+![OUTPUT](./Ex%203.png)
 ### RESULT:
 The output for Distance between the two points is Successfull.
