@@ -16,6 +16,9 @@ Then print that values,it shows many values after decimal to avoid that we shoul
 After finishing that we should push this into the git repository by giving the command git push -u origin main.
 ### PROGRAM:
 ```
+Calculate the distance between two points:
+Name:YUVARAJ.S
+Regitration Number:22008589
 import math
 l1=[4,2]
 l2=[10,6]
